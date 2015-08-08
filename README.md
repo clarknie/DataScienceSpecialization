@@ -1,3 +1,3 @@
 # DataScienceSpecialization
-Course Repo
-# Hello GitHub
+This is the Course Repo corresponding to the Coursera Data Science Specialization
+
